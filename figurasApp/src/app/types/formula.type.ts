@@ -1,5 +1,5 @@
-type Formula={
-    id:string;
-    formula:string;
-    nombre:string;
-}
+type Formula= {
+    id: string;
+    formula: string;
+    nombre: string;
+};
